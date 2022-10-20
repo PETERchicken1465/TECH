@@ -140,6 +140,7 @@ input[type="radio"] {
     padding: 30px;
     align-items: center;
     text-align: center;
+    font-size: 19px;
        
 }
 
@@ -148,6 +149,7 @@ input[type="radio"] {
     text-decoration: none;
     color: rgb(87, 143, 156);
     background-color: rgb(218, 229, 208);
+   
 }
 
 .kiemtra {
@@ -156,7 +158,8 @@ input[type="radio"] {
     margin-top: 40px;
     margin-bottom: 40px;
     border-radius:8px;
-    padding:10px 10px 45px 15px
+    padding:10px 40px 25px 35px;
+
 
 }
 
@@ -390,15 +393,10 @@ span{
        height: 10px;   
        padding-bottom: 25px;
        margin-top: -30px;
+       font-size:8.5px
        
    } 
-    .button{
-        width: 150px;
-        
-    }
-    .image{
-
-    }
+   
 
  }        
               

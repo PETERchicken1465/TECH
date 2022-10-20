@@ -48,8 +48,11 @@
                     else if (inputElems[k].name == "f") f++;
                     else if (inputElems[k].name == "g") j++;
                     else if (inputElems[k].name == "h") p++;
-                }
+                }else var x = document.getElementById("show");
+                            x.innerHTML = ("<center>!ERROR! HỆ THỐNG LỖI!.<br>Mong Anh/chị vui lòng thử lại nhé !</center>"); 
+                            show_image("assets/error.png")
             }
+
             var
                 enfj = e + n + f + j,
                 enfp = e + n + f + p,
